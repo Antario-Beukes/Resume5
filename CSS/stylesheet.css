@@ -1,0 +1,61 @@
+h1{
+    color: #D4AA7D;
+    font-family: sans-serif
+}
+p{
+    font-family: sans-serif;
+}
+ul li{
+    font-family: sans-serif;
+}
+ol li{
+    font-family: sans-serif;
+}
+.aside{
+    font-size: 10px;
+    background-color: #AA5042 ;
+    border-radius: 0%;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+   
+}
+.foot{
+    background-color: #272727;
+}
+.link{
+    text-decoration: none;
+    color: azure;
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+}
+.menu{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+.intro{
+    text-align: center;
+    font-size: 10px;
+}
+.codespace{
+    color:rgb(33, 148, 110)
+}
+menu{
+    background-color: #272727;
+}
+.border{
+    border: 20px solid black;
+    border-radius: 3%;
+}
+.image{
+    position: relative;
+    top: 15px;
+    left: 320px;
+    border-radius: 60%;
+}
+.intro_head{
+    font-size: 15px;
+    text-align: center;
+}
